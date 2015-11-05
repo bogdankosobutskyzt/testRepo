@@ -1,0 +1,1 @@
+C:\TestGit\TestGit\bin\Debug\TestGit.exe.config
